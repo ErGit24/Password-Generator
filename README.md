@@ -1,7 +1,5 @@
 # Adgangskode Generator
 
-![Adgangskode Generator]
-
 ## 📜 Beskrivelse
 
 Adgangskode Generator er en brugervenlig Python-applikation, der hjælper dig med at generere stærke og sikre adgangskoder. I en tid, hvor cybersikkerhed er vigtigere end nogensinde, er det afgørende at bruge komplekse adgangskoder, der beskytter dine online konti mod hacking og databrud.
